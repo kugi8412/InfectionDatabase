@@ -1,5 +1,9 @@
 #!usr/bin/python3
 
+"""
+The file contains support classes
+"""
+
 from datetime import datetime
 
 class IdNotFoundException(Exception):
