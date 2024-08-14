@@ -1,8 +1,9 @@
 #!usr/bin/python3
 
 """
-The file contains support classes
+The file contains main class
 """
+
 import heapq
 from math import log
 from collections import defaultdict, deque
